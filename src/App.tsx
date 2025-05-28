@@ -6,7 +6,7 @@ export default function Home() {
     return (
         <div className="w-full flex flex-col justify-center gap-10 items-center">
             <div className='h-[200px] w-[300px] relative'>
-                <img src={"/developer.png"} alt="image of a developer saying hi" width={300} height={200} className='h-full w-full object-contain' />
+                <img src={"./developer.png"} alt="image of a developer saying hi" width={300} height={200} className='h-full w-full object-contain' />
             </div>
             <div className="flex flex-col items-center gap-2">
                 <h1 className="md:text-4xl text-2xl font-aleo text-[#e26d5c]">My Portfolio</h1>
