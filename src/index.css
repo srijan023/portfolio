@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.gradient-background {
+    background-image: linear-gradient(-20deg, #e9defa11 0%, #fbfcdb11 100%);
+}
+
+.font-nunito {
+    font-family: 'Nunito', sans-serif;
+}
+
+.font-aleo {
+    font-family: 'Aleo', serif;
+}
